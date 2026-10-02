@@ -1,0 +1,11 @@
+bin/ build/ 
+logs/*.log
+logs/tests/
+*.o
+*.d
+*.out
+core
+run/
+.DS_Store
+*.sock
+*.a
